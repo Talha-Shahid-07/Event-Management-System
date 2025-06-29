@@ -33,7 +33,7 @@ A console-based C++ application for managing events, user registrations, and tic
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Event-Management-System.git
+   git clone https://github.com/Talha-Shahid-07/Event-Management-System.git
    cd Event-Management-System
    ```
 
