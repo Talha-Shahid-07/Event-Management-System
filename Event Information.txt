@@ -1,0 +1,12 @@
+
+Event ID: 123
+Manager Name: huzefa
+Event Name: circus
+Event Category: 00
+Event Time: 18
+Event Date: 29/06/2025
+Event place: karachi
+Number of seats available: 100
+Basic Ticket Price: 100
+Premium Ticket Price: 1000
+==========================================
